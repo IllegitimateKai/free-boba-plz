@@ -18,11 +18,3 @@ head {
     color: white;
     background: rgb(218, 108, 11)
 }
-
-.umazing {
-    background: black;
-}
-
-.umazing:hover {
-    cursor: pointer;
-}
